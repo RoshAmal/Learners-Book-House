@@ -1,12 +1,20 @@
 # Learners-Book-House
 Real-time android app for a book shop
 
-Modules:
-1. Customer                  2. Seller
--> Login                      -> upload items
--> View all books             -> view payments
--> View by category           -> view orders
--> add books to cart          -> confirm send
+**Modules:**
+
+1. Customer                  
+-> Login                     
+-> View all books            
+-> View by category           
+-> add books to cart          
 -> payment
 -> locate
 -> direct inquiry
+
+2. Seller
+-> upload items
+-> view payments
+-> view orders
+-> confirm send
+  
