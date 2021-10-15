@@ -3,4 +3,8 @@
     <string name="welcome_customer">Welcome Customer</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
+
+    <string name="facebook_app_id">235275525242836</string>
+    <string name="fb_login_protocol_scheme">fb235275525242836</string>
+
 </resources>
