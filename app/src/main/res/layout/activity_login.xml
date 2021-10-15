@@ -8,5 +8,18 @@ android:orientation="vertical"
 android:padding="30dp"
 tools:context=".LoginActivity">
 
+    <TextView
+        android:id="@+id/dynamic_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time to Login"
+        />
 
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/fb_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="30dp" />
 </LinearLayout>
